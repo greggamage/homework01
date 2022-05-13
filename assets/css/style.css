@@ -141,6 +141,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    word-wrap: break-word;
 }
 
 .online-reputation-management {
@@ -198,3 +199,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
